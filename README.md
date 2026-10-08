@@ -1,7 +1,7 @@
 # Hello-World: Python Practice Projects
 
 ## Description
-This is my first practice repository for **BAIS:3050 Professional Preparation**. It has two Python homework files that show basic programming, decision-making, and loops, with a business focus.
+This is my first practice repository. It has two Python homework files that show basic programming, decision-making, and loops, with a business focus.
 
 ## Tools Used
 - Python 3
