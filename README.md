@@ -4,7 +4,7 @@
 This is my first practice repository. It has two Python homework files that show basic programming, decision-making, and loops, with a business focus.
 
 ## Tools Used
-- Python 3
+- Python
 - GitHub (for storing and sharing my work)
 
 ## Files Used
